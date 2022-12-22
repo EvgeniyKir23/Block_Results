@@ -1,0 +1,15 @@
+C:\Users\KirillovEE\Documents\Block_Results\bin\Debug\net6.0\Block_Results.exe
+C:\Users\KirillovEE\Documents\Block_Results\bin\Debug\net6.0\Block_Results.deps.json
+C:\Users\KirillovEE\Documents\Block_Results\bin\Debug\net6.0\Block_Results.runtimeconfig.json
+C:\Users\KirillovEE\Documents\Block_Results\bin\Debug\net6.0\Block_Results.dll
+C:\Users\KirillovEE\Documents\Block_Results\bin\Debug\net6.0\Block_Results.pdb
+C:\Users\KirillovEE\Documents\Block_Results\obj\Debug\net6.0\Block_Results.csproj.AssemblyReference.cache
+C:\Users\KirillovEE\Documents\Block_Results\obj\Debug\net6.0\Block_Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirillovEE\Documents\Block_Results\obj\Debug\net6.0\Block_Results.AssemblyInfoInputs.cache
+C:\Users\KirillovEE\Documents\Block_Results\obj\Debug\net6.0\Block_Results.AssemblyInfo.cs
+C:\Users\KirillovEE\Documents\Block_Results\obj\Debug\net6.0\Block_Results.csproj.CoreCompileInputs.cache
+C:\Users\KirillovEE\Documents\Block_Results\obj\Debug\net6.0\Block_Results.dll
+C:\Users\KirillovEE\Documents\Block_Results\obj\Debug\net6.0\refint\Block_Results.dll
+C:\Users\KirillovEE\Documents\Block_Results\obj\Debug\net6.0\Block_Results.pdb
+C:\Users\KirillovEE\Documents\Block_Results\obj\Debug\net6.0\Block_Results.genruntimeconfig.cache
+C:\Users\KirillovEE\Documents\Block_Results\obj\Debug\net6.0\ref\Block_Results.dll
